@@ -1,0 +1,22 @@
+오후 8:34 2023-12-31
+
+
+c언어실시간 강의보기
+2강 변수
+
+해킹을 위한 c언어 미스트넷의 강의를 보다가 어려워서 오제이 실시간 가의를 본다
+
+변수를 이해하기 위하여
+
+int--사용컴퓨터의 bit랑 같다 32bit에서는 4바이트이다
+unsined char--음수를 표현하지 않을때는 이 명령어를 쓴다
+float,-4바이트
+double-- 8바이트.저장하는 구조가 다르다.
+short--2byte
+int--4byte
+long--4byte
+long long--8byte
+float--4byte
+double--8byte
+char--1byte
+빔으로 작성을 하다가 갑자기 에러가 나서 메모장을 쓴다
